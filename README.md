@@ -1,24 +1,16 @@
-# README
+# Order Tracking application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Key Requirements: Company needs the ability to track and update orders for local mortuaries also to receive orders online
 
-Things you may want to cover:
+## Models
+- Order -> Mortuary:string
+- Users -> Devise
+- AdminUser - > STI
 
-* Ruby version
+## Features
+- Approval Workflow
+- Email sending of order finished notification
+- Administrate Dashboard
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## UI
+ - Bootstrap -> formatting
