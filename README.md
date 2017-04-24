@@ -4,8 +4,8 @@
 
 ## Models
 - Order -> Mortuary:string
-- Users -> Devise
-- AdminUser - > STI
+x Users -> Devise
+x AdminUser - > STI
 
 ## Features
 - Approval Workflow
